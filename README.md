@@ -11,4 +11,5 @@
 
 ## 講義のリンク
 
-- [第一回 Programming Basics](lesson0512.md)
+- [第1回 Programming Basics](lesson0512.md)
+- [第2回 Programming Basics](lesson0513.md)
