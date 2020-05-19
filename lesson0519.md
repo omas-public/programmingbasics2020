@@ -275,3 +275,9 @@ $ code foo.py         # current directory に foo.py
 $ code ~/foo.py       # home directory に foo.py
 $ code bar.py buz.py  # bar.py buz.py 
 ```
+
+#### exercise
+
+1. home directory に pythonlessonというdirectoryを作る
+2. pythonlesson directory で ``` $ code first.py``` 
+3. 保存は ^S 
