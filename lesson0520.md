@@ -12,7 +12,7 @@
 
 ## note 
 
-- ソースコードは lessonpython 配下に作成
+- ソースコードは pythonlesson 配下に作成
 - ファイル名は 1行目URIのハッシュ部分を使う (http://tinyurl.com/hzyxgf4) -> hzyxgf4.py
 
 
@@ -23,6 +23,8 @@
 - [CodeCombat hour of code](https://hourofcode.com/cocomgame)
 - [CodeCombat Class Extention](https://codecombat.com/students?_cc=TeamSpoonFind)
 
+
+ログイン https://codecombat.com/students?_cc=TeamSpoonFind) チュートリアル https://www.geekjob.jp/beginning/learnning/playing-codecombat/
 
 ## 独学プログラマ Chapter 4 関数 (関数の作り方と動きを理解する）
 
