@@ -19,8 +19,9 @@
 ## CodeCombat(RPG programming)
 
 以下のURIよりログインしてステージを攻略せよ，進めなくなったときはSlackの #codecombat で質問しよう(60分)
-[CodeCombat hour of code](https://hourofcode.com/cocomgame)
-[CodeCombat Class Extention](https://codecombat.com/students?_cc=TeamSpoonFind)
+
+- [CodeCombat hour of code](https://hourofcode.com/cocomgame)
+- [CodeCombat Class Extention](https://codecombat.com/students?_cc=TeamSpoonFind)
 
 
 ## 独学プログラマ Chapter 4 関数 (関数の作り方と動きを理解する）
