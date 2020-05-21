@@ -16,3 +16,4 @@
 - [第3回 Programming Basics](lesson0514.md)
 - [第4回 Programming Basics](lesson0519.md)
 - [第5回 Programming Basics](lesson0520.md)
+- [第6回 Programming Basics](lesson0520.md)
