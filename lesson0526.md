@@ -66,7 +66,7 @@ Every big programming problem has a lot of little programming problems in it. Th
 引数 talking が True かつ 引数 hour が 7未満 または 20以上 の時 True を返し
 それ以外のときは False を返す関数 parrot_trouble を作成せよ
 
-- [https://codingbat.com/prob/p1668841]
+- [https://codingbat.com/prob/p166884]
 - if文を用いて作成せよ
 - ブール演算で作成せよ(if文を使わない)
 
