@@ -90,3 +90,20 @@ stringの引数(str)の先頭3文字を取り出し，3回コピーした文字�
 
 - [https://codingbat.com/prob/p147920]
 - 文字列のスライスを使用，if文で判定
+
+### front_times
+
+引数(str)の最初の3文字を 引数(n)回コピーした文字列を作成して返せ
+ただしstrが3文字以内ならそのまま返せ
+
+- [https://codingbat.com/prob/p165097]
+- 文字列のスライス
+- 文字列の掛け算
+- 文字列の長さ
+
+### string_bits
+
+引数(str)の偶数番目の文字を取り出して合成した文字列を返せ
+
+- [https://codingbat.com/prob/p113152]
+- 文字列のスライス(第3引数)
