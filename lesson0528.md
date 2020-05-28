@@ -2,10 +2,9 @@
 
 ## Summary
 
-- AOJ演習(Topic 2)を行う
 - コンテナ，文字列の扱いを学習する(教科書 Chapter 5,6)
 - CodingBatで文字列の演習を行う
-
+- AOJ code_access [https://onlinejudge.u-aizu.ac.jp/status/users/omas/submissions/1]
 
 ## 教科書 独学プログラマ
 
@@ -53,7 +52,7 @@ fluit_dict['apple'] = 'りんご1'  # fluit_dict['apple'] => 'りんご1'
 
 文字列は文字のタプルと考えよ "abc" => ('a','b','c') よって参照のしかたは同じである，逆にこれから学習するスライスはタプルやリストに応用できる。
 
-文字列が持っているメソッド(split, join, replace,index)を憶えよう
+文字列が持っているメソッド(split, join, replace, index)を憶えよう
 
 - 講師実演解説
 - (p88-p102) を読んでみよう (15分)
