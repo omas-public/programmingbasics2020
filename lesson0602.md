@@ -15,7 +15,9 @@
 - 時間を無駄にしていないか(一定時間以上やってもできなければ他の解決を考える)
 
 学習が進んでいる諸君はどんどん演習を進めてもらいたい, 使い方をもう一度確認する
-[AOJ](https://github.com/omas-public/AOJ2)
+
+- [AOJ exercise](https://github.com/omas-public/AOJ2)
+- [Codingbat exercise](https://github.com/omas-public/codingbat)
 
 ## CodingBat(Python)文字列演習
 
