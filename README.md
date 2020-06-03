@@ -1,7 +1,7 @@
 # 2020年I期 Programming Basics
 
 - [環境設定](https://github.com/omas-public/bootcamp2020.git)
-- [AOJ] (https://github.com/omas-public/AOJ2.git)
+- [AOJ](https://github.com/omas-public/AOJ2.git)
 - [Codingbat](https://github.com/omas-public/codingbat.git)
 
 ## 講義について
